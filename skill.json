@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Post-trained consultant-grade presentation generator structuring business topics into cohesive slide decks with golden pyramid layouts",
   "category": "Service",
-  "dependencies": [],
   "topics": [
     "mcp",
     "presentation-generator",
