@@ -1,0 +1,6 @@
+name: genpark-agent-presentation-slide-deck-synthesizer-skill
+version: 1.0.0
+description: Post-trained consultant-grade presentation generator structuring business topics into cohesive slide decks with golden pyramid layouts
+command: python
+args:
+  - mcp_server.py
