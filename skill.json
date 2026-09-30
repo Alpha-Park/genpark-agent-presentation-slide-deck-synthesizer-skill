@@ -1,0 +1,20 @@
+{
+  "name": "genpark-agent-presentation-slide-deck-synthesizer-skill",
+  "version": "1.0.0",
+  "description": "Post-trained consultant-grade presentation generator structuring business topics into cohesive slide decks with golden pyramid layouts",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "presentation-generator",
+    "slide-deck-synthesis",
+    "consulting-slides",
+    "executive-reporting",
+    "autonomous-agents",
+    "layout-engine",
+    "python-standard-library",
+    "agent-skills",
+    "structured-output",
+    "zero-dependency"
+  ]
+}
