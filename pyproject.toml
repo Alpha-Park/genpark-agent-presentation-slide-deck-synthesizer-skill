@@ -1,11 +1,5 @@
-[build-system]
-requires = ["setuptools>=61.0"]
-build-backend = "setuptools.build_meta"
-
 [project]
 name = "genpark-agent-presentation-slide-deck-synthesizer-skill"
 version = "1.0.0"
 description = "Post-trained consultant-grade presentation generator structuring business topics into cohesive slide decks with golden pyramid layouts"
-readme = "README.md"
 requires-python = ">=3.9"
-dependencies = []
